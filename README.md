@@ -1,6 +1,4 @@
-# Project Title
-
-Code Challenge for workmarket
+# Code Challenge for workmarket
 
 ## Getting Started
 
