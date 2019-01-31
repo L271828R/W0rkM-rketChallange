@@ -26,7 +26,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * Created by luisrueda on 1/31/19.
  */
-public class TestSearchChallange {
+public class TestSearchChallenge {
 
     private static WebDriver webDriver;
     HashMap<String, String> config;

@@ -12,7 +12,6 @@ public class PasswordRandomizer {
         String alpha =  RandomStringUtils.random(numberOfAlpha, allowedChars);
         String digits = RandomStringUtils.random(numberOfDigits, allowedDigits);
         String result = alpha + digits;
-        System.out.println(result);
         return result;
     }
 }
