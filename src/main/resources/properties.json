@@ -1,0 +1,16 @@
+{
+  "driver_location" : "/usr/local/bin/chromedriver",
+  "is_driver_headless" : "false",
+  "low_sleep" : "2000",
+  "high_sleep" : "5000",
+  "registration_page" : "https://dev.workmarket.com/register/campaign/10081C503B209A0C8E7F05FDCC1AA98D4C904DEEF5F73265CAE38C744E7EAD3E",
+  "registration_page_success_title" : "Work Market | Thank you",
+  "registration_page_success_text" : "Thank You from CoName_",
+  "registration_page_email_validation_text" : "Please enter a valid email",
+  "registration_page_password_validation_text" : "Please enter a valid password",
+  "search_page_login" : "https://dev.workmarket.com/login",
+  "search_login_title" : "WorkMarket | Login",
+  "search_main_title" : "Home - Work Market",
+  "search_page_user" : "qa+candidatetest@workmarket.com",
+  "search_page_password" : "candidate123"
+}
