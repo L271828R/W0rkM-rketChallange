@@ -15,7 +15,9 @@ Kindly configure the location of your Chrome driver there.
 If you have questions on how to obtain a Chrome driver kindly consult the following:
 
 http://chromedriver.chromium.org/downloads
-https://www.kenst.com/2015/03/installing-chromedriver-on-mac-osx/
+
+https://www.kenst.com/2015/03/installing-chromedriver-on-mac-osx
+
 https://splinter.readthedocs.io/en/0.1/setup-chrome.html
 
 
