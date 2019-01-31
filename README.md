@@ -1,6 +1,6 @@
 # Project Title
 
-Code Challange for workmarket
+Code Challenge for workmarket
 
 ## Getting Started
 
