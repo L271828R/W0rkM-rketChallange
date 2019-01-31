@@ -1,4 +1,4 @@
-package com.workweek.tests.search.challange;
+package com.workmarket.tests.search.challange;
 
 import com.workweek.selenium.SearchPage;
 import com.workweek.selenium.SearchPageLogin;

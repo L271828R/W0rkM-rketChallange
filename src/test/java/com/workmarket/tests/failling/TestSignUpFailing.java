@@ -1,4 +1,4 @@
-package com.workweek.tests.failling;
+package com.workmarket.tests.failling;
 
 import com.workweek.selenium.SignUpPage;
 import com.ww.tooling.*;
@@ -18,7 +18,7 @@ import static org.junit.Assert.*;
 /**
  * Created by luisrueda on 1/30/19.
  */
-public class TestSearchFailing {
+public class TestSignUpFailing {
 
     private static WebDriver webDriver;
     HashMap<String, String> config;

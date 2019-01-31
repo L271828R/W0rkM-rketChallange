@@ -1,4 +1,4 @@
-package com.workweek.tests.passing;
+package com.workmarket.tests.passing;
 
 import com.workweek.selenium.SignUpPage;
 import com.ww.tooling.*;
@@ -19,7 +19,7 @@ import static org.junit.Assert.*;
 /**
  * Created by luisrueda on 1/30/19.
  */
-public class TestSearchPage {
+public class TestSignUpPage {
 
     private static WebDriver webDriver;
     HashMap<String, String> config;
