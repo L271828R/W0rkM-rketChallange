@@ -9,7 +9,7 @@ Code Challenge for workmarket
 
 Please have JAVA 8, Maven and GIT installed
 
-There is also a configuration file found at src/main/resource/properties.json
+There is also a configuration file found at src/main/resources/properties.json
 Kindly configure the location of your Chrome driver there.
 
 
@@ -26,6 +26,8 @@ mvn validate
 ```
 mvn -Dtest=TestSignUpPage#happyPath test
 ```
+If the above has a compilation failure. You may need to
+simply run it again.
 
 ### Running Challenge 2
 ```
