@@ -24,8 +24,7 @@ public class JSONToMap
 
         }
 
-        System.out.println("json : "+jObject);
-        System.out.println("map : "+map);
+
     }
 
     public HashMap<String, String> getMap() {
